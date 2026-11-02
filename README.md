@@ -373,13 +373,14 @@ Open your browser at `http://localhost:8501`.
 
 ## 👤 Authorship & Acknowledgements
 
-- **Author:** Data Science & Machine Learning Engineer ([Your Name](https://github.com/your-username))
+- **Author:** Shivam Kumar – Aspiring Data Scientist & Machine Learning Engineer ([GitHub Profile](https://github.com/ershivamkumar))
 - **Data Provider:** New York Metropolitan Transportation Authority (MTA) & New York State Open Data.
-- **Project Repository:** [TransitPulse-Time-Series-Forecasting](https://github.com/your-username/TransitPulse-Time-Series-Forecasting)
+- **Project Repository:** [TransitPulse-Time-Series-Forecasting](https://github.com/ershivamkumar/TransitPulse-Time-Series-Forecasting)
 
 ---
 
 ## 📄 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-Dataset attribution remains with the New York Metropolitan Transportation Authority under Open Data NY terms.
+
+Dataset attribution remains with the New York Metropolitan Transportation Authority (MTA), subject to the applicable Open Data NY terms and conditions.
